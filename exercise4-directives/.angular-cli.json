@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "exercise3-services"
+    "name": "exercise4-directives"
   },
   "apps": [
     {

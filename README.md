@@ -6,8 +6,12 @@
 
 ## Exercise 2 - Components
 
-[Angular - Modules](https://github.com/Ryanair/ng-basics/tree/master/exercise2-components)
+[Angular - Components](https://github.com/Ryanair/ng-basics/tree/master/exercise2-components)
 
 ## Exercise 3 - Services
 
-[Angular - Modules](https://github.com/Ryanair/ng-basics/tree/master/exercise3-services)
+[Angular - Services](https://github.com/Ryanair/ng-basics/tree/master/exercise3-services)
+
+## Exercise 4 - Directives
+
+[Angular - Directives](https://github.com/Ryanair/ng-basics/tree/master/exercise4-directives)
