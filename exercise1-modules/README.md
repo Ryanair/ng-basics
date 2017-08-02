@@ -20,4 +20,6 @@ message in the console when it is loaded/imported.
 Import your module into the main AppModule and verify that a message (i.e 'It works')
 is logged in the console.
 
+Link: [Angular2 Modules](https://angular.io/api/core/NgModule)
+
 **Good Luck!**
