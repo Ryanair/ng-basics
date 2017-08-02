@@ -22,6 +22,8 @@ Create a simple navigation that allows navigating t
 
 ### Home route
 Define the `''` route that renders the app component.
+
+Do experiment with `pathMatch 'prefix'` and `pathMatch 'full'`.
 [Angular Router](https://angular.io/guide/router#define-routes)
 
 ### Todos route
