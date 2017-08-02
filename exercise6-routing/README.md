@@ -16,17 +16,19 @@ App is served at [http://localhost:4200](http://localhost:4200).
 Make sure there's `<base href="/">` inside the `<header>...</header>`.
 [Angular Router](https://angular.io/guide/router#base-href)
 
-Then, define the necessary routes.
+### App component
+Add `router-outlet` component in the app component's template. 
+Create a simple navigation that allows navigating t
+
+### Home route
+Define the `''` route that renders the app component.
 [Angular Router](https://angular.io/guide/router#define-routes)
 
 ### Todos route
-
-
-### Todo route
-
+Define the `'todos'` route that renders the `todos-list` component.
 
 ### Page not found route
-
+Create a simple `PageNotFoundComponent` and define the `'**'` route that renders it.
 
 Note: You may want to set `enableTracing` to `true` when developing the app. 
 
