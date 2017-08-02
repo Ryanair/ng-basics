@@ -4,11 +4,10 @@ import { Component } from '@angular/core';
   selector: 'app-root',
   template: `
     <h1>
-      Welcome to {{title}}!!
+      Todo list!
     </h1>
+    <app-todos-list></app-todos-list>
   `,
   styles: []
 })
-export class AppComponent {
-  title = 'app';
-}
+export class AppComponent {}
