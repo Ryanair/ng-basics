@@ -1,5 +1,5 @@
-# Angular 2 - Exercise 2 - Components
-The purpose of this exercise is to get familiar with Angular 2 Components.
+# Angular - Exercise 2 - Components
+The purpose of this exercise is to get familiar with Angular Components.
 The final goal is to create a todo-list application.
 
 ## Before ...

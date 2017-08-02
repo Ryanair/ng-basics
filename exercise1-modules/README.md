@@ -1,5 +1,5 @@
-# Angular 2 - Exercise 1 - Modules
-The purpose of this exercise is to get familiar with Angular 2 Modules.
+# Angular - Exercise 1 - Modules
+The purpose of this exercise is to get familiar with Angular Modules.
 The final goal is to create a todo-list application.
 
 ## Before ...
