@@ -3,12 +3,8 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
   template: `
-    <h1>
-      Welcome to {{title}}!!
-    </h1>
+    <h1>My Routed App</h1>
+    <!-- navigation goes here -->
   `,
-  styles: []
 })
-export class AppComponent {
-  title = 'app';
-}
+export class AppComponent {}

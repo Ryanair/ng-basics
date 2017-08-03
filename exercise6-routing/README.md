@@ -17,11 +17,14 @@ Make sure there's `<base href="/">` inside the `<header>...</header>`.
 [Angular Router](https://angular.io/guide/router#base-href)
 
 ### App component
-Add `router-outlet` component in the app component's template. 
-Create a simple navigation that allows navigating t[TODO]
+Inside the `app` component's template, create a simple navigation that allows access to the routes specified below.
+
+Also, add `router-outlet` element in the `app` component's template.
 
 ### Home route
-Define the `''` route that renders the app component.
+Create a simple `HomePageComponent` displaying text _You're on home page_.
+
+Define the `''` route that renders the `home-page` component.
 
 Experiment with `pathMatch: 'prefix'` and `pathMatch: 'full'`.
 [Angular Router](https://angular.io/guide/router#define-routes)
