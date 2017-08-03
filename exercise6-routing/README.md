@@ -18,12 +18,12 @@ Make sure there's `<base href="/">` inside the `<header>...</header>`.
 
 ### App component
 Add `router-outlet` component in the app component's template. 
-Create a simple navigation that allows navigating t
+Create a simple navigation that allows navigating t[TODO]
 
 ### Home route
 Define the `''` route that renders the app component.
 
-Do experiment with `pathMatch 'prefix'` and `pathMatch 'full'`.
+Experiment with `pathMatch: 'prefix'` and `pathMatch: 'full'`.
 [Angular Router](https://angular.io/guide/router#define-routes)
 
 ### Todos route
