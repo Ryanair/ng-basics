@@ -15,3 +15,7 @@
 ## Exercise 4 - Directives
 
 [Angular - Directives](https://github.com/Ryanair/ng-basics/tree/master/exercise4-directives)
+
+## Exercise 6 - Routing
+
+[Angular - Router](https://github.com/Ryanair/ng-basics/tree/master/exercise6-routing)
