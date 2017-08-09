@@ -20,7 +20,7 @@ We have created 2 components for you:
 ## Let's start
 Create a service providing the following:
 
-1. a listof todos: you need to provide the mock list (see TodoListcomponent)
+1. a listof todos: you need to provide list from https://jsonplaceholder.typicode.com/todos
 2. a reset/done action for changing the status of a todo item.
 
 Note: we need to decrease use of 'internal' state inside components as much as possible i.e
