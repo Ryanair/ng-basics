@@ -13,7 +13,7 @@ $ ng serve
 App is served at [http://localhost:4200](http://localhost:4200).
 
 ## Let's start
-Make sure there's `<base href="/">` inside the `<header>...</header>`.
+Make sure there's `<base href="/">` inside the `<head>...</head>`.
 [Angular Router](https://angular.io/guide/router#base-href)
 
 ### App component
