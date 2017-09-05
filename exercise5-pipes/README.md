@@ -23,7 +23,4 @@ Remember to suffix the class name with 'Pipe'.
 ### Completed todos pipe with param
 Parametrise `completedTodos` pipe with a _boolean_ so that either completed or not completed todos can be returned.
 
-Experiment with `pure: 'false'` inside the pipe's metadata.
-[Angular Router](https://angular.io/guide/pipes#pure-and-impure-pipes)
-
 **Good Luck!**
